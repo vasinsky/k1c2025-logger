@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+
+# Логи и графики (они генерируются, их не надо хранить в git)
+*.csv
+*.png
+*.jsonl
+K1c2025_logs/
+
+# macOS
+.DS_Store
